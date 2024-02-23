@@ -1,0 +1,135 @@
+
+
+html,
+body{
+    /* padding: 0px; */
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: sans-serif;
+    color: whitesmoke;
+    background-color: rgb(1, 1, 20);
+}
+
+/* nav{
+    background-color: rgb(1, 1, 32);
+    width: 100%;
+    height: 70px;
+    position: fixed;
+    z-index: 100;
+} */
+
+/* .fa-heart{
+    color: #6f610f;
+    text-decoration: none;
+} */
+
+/* #favoriteButton:hover{
+    transform: scale(1.125);
+    color: rgba(255, 255, 255, 0.9);
+    border-color: rgba(255, 255, 255, 0.9);
+    transition: all .3s ease;  
+  } */
+
+#nav_container{
+    padding: 15px 60px;
+    /* display: flex; */
+    /* justify-content: space-between; */
+}
+
+#logo img{
+    width: 80px;
+    margin-top: 6px;
+    margin-left: -55px;
+}
+
+/* #movie{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+} */
+
+
+/* #movie-rating{
+    display: flex;
+    width: 30%;
+    flex-direction: row;
+    justify-content: space-between;
+} */
+
+/* #movie-photo{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+} */
+
+/* #small-pic{
+    height: 500px;
+    width: 98%;
+    border: 2px solid gray;
+    border-radius: 5px;
+} */
+
+#moviePoster{
+    height: 50%;
+    width: 40%;
+    border: 2px solid #020233;
+    border-radius: 1px 170px;
+}
+
+.movie-name{
+    width: 58%;
+    margin-left: auto;
+    text-align: justify;
+    font-size: 1.5rem;
+    /* margin-top: -747px; */
+    margin-top: -600px;
+}
+
+#title{
+    font-size: 5rem;
+    font-weight: 500;
+    /* margin-left: 590px; */
+    /* margin-top: -760px; */
+    color: #6e6732;
+    /* text-align: right; */
+}
+
+
+#plot{
+    color: #6e6732;
+    /* font-size: 1.5rem; */
+    /* margin-left: 595px; */
+    /* margin-top: -65px; */
+}
+
+#rating{
+    font-size: 1rem;
+}
+
+/* #favoriteButton{
+    font-size: 1.5rem
+} */
+
+/* #favBtn{
+    font-size: 30px ;
+    color: white;
+    border: none;
+    background-color: rgb(1, 1, 20);
+} */
+
+/* footer{
+    width: 50%;
+    height: 50%;
+    color: white;
+} */
+
+/* #homePage {
+    display: flex;
+    font-size: 1.2rem;
+    color: #cde355;
+    justify-content: flex-end;
+} */
+
+
+
+
